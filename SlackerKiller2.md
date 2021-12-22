@@ -8,7 +8,7 @@
 
 <a href="#feature">使用介绍</a>
 
-<a href="download">下载链接</a>
+<a href="#download">下载链接</a>
 
 <a href="#tobecon">未来改进</a>
 
