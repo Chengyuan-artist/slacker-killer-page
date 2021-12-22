@@ -94,9 +94,13 @@
 
 ## <a id="download">下载来玩吧!</a>
 
-
-
 <a href="slackerkiller-a0.0.2.apk">SlackerKiller</a>
+
+版本变更：
+
+> alpha0.0.1:  init
+>
+> alpha0.0.2: weekPage渲染美化（[bug] 初次安装后需要杀掉app后再打开，才能正常显示课程）
 
 ## <a id="tobecon">to be continue</a>
 
